@@ -1,0 +1,29 @@
+.admin-table{
+    margin-top:20px;
+    text-align: center;
+    /*table-layout:fixed;*/
+    width:100%;
+}
+
+.admin-th{
+    font-weight: bolder;
+    height:50px;   
+}
+.admin-th td, .admin-table tr:last-child td{
+    border-bottom:1px solid #000;
+}
+.admin-table tr{
+    height:50px;   
+}
+.admin-table tr td{
+    white-space:normal;
+}
+.admin-table-even{
+    background-color: #F9F9F9
+}
+.admin-table-td-name,.admin-table-td-role,.admin-table-td-state{
+    width:28%;
+}
+.admin-table-td-status{
+    width:16%;
+}

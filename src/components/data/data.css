@@ -1,0 +1,19 @@
+.connectDiv {
+    border-left: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+    border-right: 1px solid #D9D9D9;
+    padding: 2px;
+    box-sizing: border-box;
+    width: 77%;
+    z-index: 5;
+    background-color: #fff;
+    height: 310px;
+    overflow: auto;
+    position: absolute;
+    top: 32px;
+    left: 0
+}
+.ant-upload-list{
+    height: 300px; 
+    overflow: auto
+}
